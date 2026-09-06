@@ -32,7 +32,7 @@
 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,html,css" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=javascript,python,java" alt="Languages">
 </p>
 
 ⚛️ Frontend & Backend
