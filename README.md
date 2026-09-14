@@ -185,3 +185,6 @@ Stack: HTML • CSS • JavaScript
 Thanks for visiting my profile!
 Keep building. Keep learning. 🚀
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohit9003/mohit9003/output/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
