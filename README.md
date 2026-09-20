@@ -1,190 +1,251 @@
 <div align="center">
 
-👋 Hey, I'm Mohit Kumar
+# 👋 Hi, I'm Mohit Kumar
 
-💻 Full Stack Developer • 🤖 AI/GenAI Enthusiast • 📊 Data & Dashboard Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Exploring+AI+%26+Generative+AI;Turning+ideas+into+working+projects;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+### Full Stack Developer • AI/GenAI Enthusiast • Data & Cloud Learner
 
 <p>
-  <a href="https://github.com/mohit9003"><img src="https://img.shields.io/badge/GitHub-mohit9003-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mohit9003/"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://mohittportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=mohit9003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  I build practical software products, AI-powered applications,
+  dashboards and full-stack systems that solve real-world problems.
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Real-World+Projects+%F0%9F%9A%80;Full+Stack+Development+%7C+AI+%7C+Data;Exploring+Generative+AI+%26+Automation;Learning+Cloud+%26+Data+Engineering;Turning+Ideas+Into+Working+Products+%F0%9F%94%A5" />
+
+<br>
+
+<a href="https://github.com/mohit9003">
+<img src="https://img.shields.io/badge/GitHub-mohit9003-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohit9003/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohit%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://mohittportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mohit9003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
-🚀 About Me
+---
 
-🔭 I build full-stack web applications, AI-powered tools, and data dashboards.
+## 🚀 About Me
 
-🤖 Interested in Generative AI, practical AI applications, and automation.
+- 💻 I build **full-stack web applications and practical software products**.
+- 🤖 Exploring **Generative AI, LLM applications and AI-powered automation**.
+- 📊 Interested in **Data Analytics, Data Engineering and intelligent dashboards**.
+- ☁️ Currently learning and working with **Cloud & backend technologies**.
+- 🗄️ Comfortable working with **SQL, PostgreSQL, MongoDB and REST APIs**.
+- 🧩 I enjoy converting ideas into **working, deployable projects**.
+- 📚 Always learning, experimenting and improving through projects.
 
-🌱 Currently improving my skills in full-stack development, AI, and data analytics.
+---
 
-🧩 I enjoy turning ideas into clean, useful, real-world projects.
+## 🧠 What I Work With
 
-📫 Connect with me on LinkedIn.
-
-🛠️ Tech Stack
-
-💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java" alt="Languages">
-</p>
-
-⚛️ Frontend & Backend
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind" alt="Frontend and backend">
+<img src="https://skillicons.dev/icons?i=javascript,python,java" />
 </p>
 
-🗄️ Database & Tools
+### ⚛️ Full Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Database and tools">
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind" />
 </p>
 
-🤖 AI & Data
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 </p>
 
-📊 GitHub Analytics
+### 🤖 AI / Data
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohit9003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
+### 🛠️ Tools & Platforms
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit9003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
-<br><br>
+---
 
-<img src="https://streak-stats.demolab.com?user=mohit9003&theme=tokyonight&hide_border=true" alt="GitHub streak">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohit9003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies">
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit9003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph">
-
-</div>
-
-🚀 Featured Projects
+# 🔥 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-🧪 Virtual Lab Assistant
+<td width="50%" valign="top">
 
-A full-stack virtual laboratory platform with interactive experiments, AI assistance, progress tracking, study resources, and an admin panel.
+## 🧪 VLA — Virtual Lab Assistant
 
-Stack: React • Node.js • Express • MongoDB • Gemini API • Tailwind
+AI-powered virtual laboratory platform designed to make practical learning more interactive.
 
-<a href="https://github.com/mohit9003/vla">🔗 View Project</a>
+**Highlights**
+- 🧪 Interactive virtual experiments
+- 🤖 AI assistance
+- 💻 C code execution
+- 📚 Learning resources
+- 📊 Experiment management
+
+**Tech**
+
+`React` `Node.js` `Express` `MongoDB` `Gemini API` `Tailwind CSS`
+
+<br>
+
+<a href="https://github.com/mohit9003/vla">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
-<td width="50%">
 
-🤖 AI Resume Analyzer
+<td width="50%" valign="top">
 
-An AI-powered resume analyzer that evaluates resumes, generates ATS scores, identifies skill gaps, and provides improvement suggestions.
+## 📊 Talmetry
 
-Stack: Python • Streamlit • Google Gemini • PyPDF2
+Full-stack talent management platform for handling authentication, candidates and dashboard-based workflows.
 
-<a href="https://github.com/mohit9003/genai-resume-analyzer">🔗 View Project</a>
+**Highlights**
+- 🔐 JWT Authentication
+- 👤 Candidate Management
+- 📊 Dashboard
+- 🗄️ PostgreSQL Database
+- 🔗 REST APIs
+- ⚙️ Spring Boot Backend
+
+**Tech**
+
+`React` `Spring Boot` `PostgreSQL` `JWT` `REST API`
+
+<br>
+
+<a href="https://github.com/mohit9003/talmetry">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-🌐 Personal Portfolio
+<td width="50%" valign="top">
 
-A responsive portfolio website showcasing projects, technical skills, and resume.
+## 🚚 SupplyChainAI
 
-Stack: React • Node.js • Express • CSS
+Intelligent supply chain and warehouse management platform focused on improving inventory and operational workflows.
 
-<a href="https://github.com/mohit9003/portfolio">🔗 View Project</a>
+**Highlights**
+- 📦 Inventory Management
+- 🏭 Warehouse Management
+- 🚚 Supply Chain Operations
+- 📊 Operational Insights
+- 🤖 AI-oriented workflow
+
+**Tech**
+
+`JavaScript` `React` `Node.js` `Database`
+
+<br>
+
+<a href="https://github.com/mohit9003/SupplyChainAI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
-<td width="50%">
 
-📝 Developer Blog
+<td width="50%" valign="top">
 
-A personal blogging platform with Markdown support and dark mode.
+## 📈 Sales Data Analysis Dashboard
 
-Stack: Next.js • Tailwind CSS • Vercel
+Data analysis project focused on transforming sales data into meaningful business insights.
 
-<a href="https://github.com/mohit9003/blog">🔗 View Project</a>
+**Highlights**
+- 📊 Sales Performance Analysis
+- 📈 Trend Analysis
+- 🔍 Data Exploration
+- 📉 Business Insights
+- 📋 Dashboard Visualization
+
+**Tech**
+
+`Python` `Pandas` `Data Analysis` `Dashboarding`
+
+<br>
+
+<a href="https://github.com/mohit9003/Sales-Data-Analysis-Dashboard">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-📊 Sales Data Analysis Dashboard
+<td width="50%" valign="top">
 
-A data-analysis project focused on exploring sales data and presenting insights through dashboards.
+## 🌐 Developer Portfolio
 
-Stack: Python • Data Analysis • Dashboarding
+Personal portfolio showcasing my projects, skills, experience and development journey.
 
-<a href="https://github.com/mohit9003/Sales-Data-Analysis-Dashboard">🔗 View Project</a>
+**Tech**
 
-</td>
-<td width="50%">
+`JavaScript` `React` `Vite` `CSS`
 
-💰 Finance Dashboard
+<br>
 
-A web-based finance dashboard project for presenting financial information through a clean interface.
-
-Stack: HTML • CSS • JavaScript
-
-<a href="https://github.com/mohit9003/finance-dashboard">🔗 View Project</a>
+<a href="https://github.com/mohit9003/portfolio">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
+
+<td width="50%" valign="top">
+
+## ✍️ Developer Blog
+
+A platform for sharing technical knowledge, development experiences and project-related content.
+
+**Tech**
+
+`JavaScript` `React` `Vite` `CSS`
+
+<br>
+
+<a href="https://github.com/mohit9003/blog">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
 </tr>
 </table>
 
-🌐 Let's Connect
+---
 
-<div align="center">
+# 🏗️ Currently Building & Learning
 
-<a href="https://www.linkedin.com/in/mohit9003/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://github.com/mohit9003">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://mohittportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio">
-</a>
-
-<br><br>
-
-⭐ If you find my work interesting, feel free to explore my repositories!
-
-</div>
-
-<!--
-Thanks for visiting my profile!
-Keep building. Keep learning. 🚀
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohit9003/mohit9003/output/github-snake.svg" alt="GitHub Contribution Snake">
-</p>
+```text
+Full Stack Development
+        ↓
+Backend & REST APIs
+        ↓
+AI / Generative AI
+        ↓
+Data Analytics
+        ↓
+Data Engineering
+        ↓
+Cloud Technologies
